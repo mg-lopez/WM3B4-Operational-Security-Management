@@ -1,2 +1,3 @@
-# WM3B4-Operational-Security-Management
-Year 3 - 70%
+# WM3B4-Operational-Security-Management (Year 3)
+This module draws together material, developed in detail in other modules, and presents the various interacting topics in an operational context. The focus is on operational security management relating to the cyber domain: maximising the benefits that flow from cyber engagement, whilst minimising the harms, through deliberate, managed activity. Some of this activity is obvious and directly cyber related: crypto key management or firewall rule change-control for example. Some is less obvious and indirectly cyber related: HR protocols for joiners and leavers for example.
+At its core, the module is concerned with systematically addressing threats, vulnerabilities and the negative consequences that obtain should a threat exploit a vulnerability in any organisation's day-to-day cyber engagement. In that sense it uses the vocabulary of risk management. It is however particularly concerned with the home team engaging in concrete patterns (which may be deliberately randomised to hide the pattern) of activity that anticipate and foil an adversary's activity
